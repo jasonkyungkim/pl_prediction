@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+EPL Standings 2000-2022.csv
+requirements.txt
+epl/Scripts/Activate.ps1
+*.bat
+epl/Scripts/activate
+*.exe
+epl/Scripts/pywin32_testall.py
+epl/Scripts/pywin32_postinstall.py
+epl/pyvenv.cfg
+epl/share/jupyter/kernels/python3/kernel.json
+epl/share/jupyter/kernels/python3/logo-64x64.png
+epl/share/jupyter/kernels/python3/logo-32x32.png
+epl/share/man/man1/ipython.1
+epl/xgboost/vcomp140.dll
+epl/share/jupyter/kernels/python3/logo-svg.svg
