@@ -142,3 +142,4 @@ epl/share/jupyter/kernels/python3/logo-32x32.png
 epl/share/man/man1/ipython.1
 epl/xgboost/vcomp140.dll
 epl/share/jupyter/kernels/python3/logo-svg.svg
+.vscode/extensions.json
